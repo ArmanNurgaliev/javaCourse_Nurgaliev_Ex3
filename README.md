@@ -1,1 +1,3 @@
-# javaCourse_NurgalievEx_3
+# javaCourse_Nurgaliev_Ex_3
+
+Модуль 3
